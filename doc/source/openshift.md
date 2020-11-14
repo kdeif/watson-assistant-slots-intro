@@ -88,7 +88,7 @@ The remaining credentials to add will depend on if you provisioned Assistant fro
 
 !["Assistant Credentials"](https://raw.githubusercontent.com/IBM/pattern-utils/master/watson-assistant/watson_assistant_api_key.png)
 
-* Add keys for `CONVERSATION_IAM_APIKEY` and `CONVERSATION_URL` to store your credentials.
+* Add keys for `CONVERSATION_APIKEY` and `CONVERSATION_URL` to store your credentials.
 
 </p>
 </details>
