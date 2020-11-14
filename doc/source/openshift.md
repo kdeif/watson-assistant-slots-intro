@@ -19,7 +19,7 @@ You will need a running OpenShift cluster, or OKD cluster. You can provision [Op
 
 ![Choose Node.js](https://github.com/IBM/pattern-utils/blob/master/openshift/openshift-choose-nodejs.png)
 
-* Give your app a name and add `https://github.com/IBM/watson-assistant-slots-intro` for the github repo, then click `Create`.
+* Give your app a name and add `https://github.com/kdeif/watson-assistant-slots-intro` for the github repo, then click `Create`.
 
 ![Add github repo](https://github.com/IBM/pattern-utils/blob/master/openshift/openshift-add-github-repo.png)
 
